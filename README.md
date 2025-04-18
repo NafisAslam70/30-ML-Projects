@@ -1,6 +1,6 @@
 # 30 ML Projects 🚀
 
-This repo contains 30 daily Machine Learning projects, each committed with a timestamp that reflects when it was worked on.
+This repo contains 30 daily Machine Learning projects practiced  y m e during the period of 1st January to 15th February 2025.
 
 | Day | Project Title | Date |
 |-----|----------------|------|
